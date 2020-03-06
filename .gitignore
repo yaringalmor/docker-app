@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# pipeline autocomplete file
+src/pipeline.gds1
+
+# .idea files
+.idea/
